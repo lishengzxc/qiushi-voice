@@ -1,0 +1,22 @@
+{
+  "name": "qiushi-voice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": { "qiushi-voice": "bin/qiushi.js" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lishengzxc/qiushi-voice.gitbin"
+  },
+  "author": "eric@lishengcn.cn",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "cheerio": "^0.20.0",
+    "co": "^4.6.0",
+    "request-promise": "^2.0.1"
+  }
+}
